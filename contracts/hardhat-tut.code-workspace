@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "hardhat-tut",
+			"path": ".."
+		},
+		{
+			"name": "marketplace",
+			"path": "../../simple-nft-marketplace/marketplace"
+		}
+	],
+	"settings": {}
+}
